@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Digest</title>
+    <link>https://jooekong.github.io/ai-digest-daily/ai-digest.xml</link>
+    <description>AI-summarized articles from FreshRSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 24 Feb 2026 07:25:13 +0000</lastBuildDate>
+    <item>
+      <title>[AI摘要] Daily Hacker News for 2026-02-22</title>
+      <link>https://www.daemonology.net/hn-daily/2026-02-22.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt;Hacker News Daily &amp;nbsp;|&amp;nbsp; &lt;a href="https://www.daemonology.net/hn-daily/2026-02-22.html"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;&lt;hr/&gt;&lt;div class="ai-summary"&gt;**一句话总结：** 本文是2026年2月22日Hacker News的每日最高分文章汇总，内容主要聚焦于AI智能体创新、大模型硬件运行突破以及社交网络反思与极客DIY项目。&lt;br/&gt;&lt;br/&gt;**三个核心要点：**&lt;br/&gt;1. **AI智能体与微型化应用**：社区高度关注AI代理的新进展，包括作为大语言模型（LLM）代理新架构的“Claws”，以及体积不到888KB、可直接在ESP32微控制器上运行的个人微型AI助手“zclaw”。&lt;br/&gt;2. **大模型的硬件优化与极客突破**：探讨了降低AI算力门槛的硬核技术，如将LLM直接“打印”到芯片上的Taalas技术，以及通过NVMe直连绕过CPU、在单张RTX 3090消费级显卡上成功运行Llama 3.1 70B大模型的极客方案。&lt;br/&gt;3. **平台反思与个人开发者项目**：涵盖了对去中心化社交平台Bluesky的警示、对“注意力媒体与社交网络”本质区别的探讨，以及复活已停服多人游戏的平台（Gamedate）和自制家庭电子墨水屏仪表盘等趣味DIY项目。&lt;/div&gt;</description>
+      <guid isPermaLink="false">ai-digest:a781a711741b00845e98c666d56d4195</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
